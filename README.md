@@ -1,0 +1,1 @@
+# Affiliato WordPress Plugin

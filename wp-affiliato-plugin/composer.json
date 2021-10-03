@@ -1,0 +1,19 @@
+{
+  "name": "affiliato/affiliato-plugin",
+  "description": "Affiliato Plugin",
+  "type": "project",
+  "license": "GPL-3.0",
+  "authors": [
+    {
+      "name": "Julio Cesar de Azeredo",
+      "email": "jcdazeredo@gmail.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "Inc\\": "./inc"
+    }
+  }
+}
